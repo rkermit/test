@@ -12,4 +12,4 @@
 
 Некоторые основные команды Git: ``` статус git git добавить git commit ```
 
-[а это ссылка на мой гит ]([url](https://github.com/rkermit))
+[а это ссылка на мой гит ([url](https://github.com/rkermit))
